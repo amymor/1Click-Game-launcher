@@ -1,4 +1,6 @@
-# 1Click Game launcher
+# 1Click  Game launcher 
+# :one::video_game::rocket: 
+
 An easy to use launcher and generic tweaker to run games with better performance and priority
 
 
